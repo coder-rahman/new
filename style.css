@@ -260,7 +260,7 @@ small{
 }
 .footer-col-2 img{
     width: 180px;
-	background-color:white;
+	background:#fff;
     margin-bottom: 20px;
 }
 .footer-col-3, .footer-col-4{
@@ -539,7 +539,4 @@ form a{
 	.cart-info p{
 		display:none;
 	}
-}
-.footer-col-2 img{
-	background-color:white;
 }
