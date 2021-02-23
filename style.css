@@ -259,8 +259,7 @@ small{
     text-align: center;
 }
 .footer-col-2 img{
-    width: 180px;
-	background:#fff;
+    width: 180px;background-color:#fff;
     margin-bottom: 20px;
 }
 .footer-col-3, .footer-col-4{
